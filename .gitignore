@@ -4,5 +4,6 @@
 .idea/
 .settings
 .classpath
+.factorypath
 .project
 /WebContent/META-INF/MANIFEST.MF
